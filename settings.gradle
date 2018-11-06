@@ -1,1 +1,1 @@
-include ':app', ':dimensions'
+include ':app', ':dimensions', ':testdimesionsmodule'
