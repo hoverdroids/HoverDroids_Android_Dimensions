@@ -1,1 +1,1 @@
-include ':app', ':dimensions', ':example'
+include ':app', ':dimensions', ':example', ':dimensions2'
