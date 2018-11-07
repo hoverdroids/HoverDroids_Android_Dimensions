@@ -1,1 +1,1 @@
-include ':app', ':dimensions', ':example', ':dimensions2'
+include ':app', ':dimens', ':example', ':dimens_sw320dp', ':dimens_land', ':dimens_sw600dp', ':dimens_sw720dp', ':dimens_sw480dp', ':dimens_sw320dp_land', ':dimens_sw480dp_land', ':dimens_sw600dp_land', ':dimens_sw720dp_land'
