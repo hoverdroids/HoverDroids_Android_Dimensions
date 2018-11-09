@@ -1,4 +1,4 @@
-package com.hoverdroids.dimensions2;
+package com.hoverdroids.dimens_sw320dp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

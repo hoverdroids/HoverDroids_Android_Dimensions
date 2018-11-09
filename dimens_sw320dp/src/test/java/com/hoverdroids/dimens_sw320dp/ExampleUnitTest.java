@@ -1,4 +1,4 @@
-package com.hoverdroids.dimensions;
+package com.hoverdroids.dimens_sw320dp;
 
 import org.junit.Test;
 

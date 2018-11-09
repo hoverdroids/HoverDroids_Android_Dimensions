@@ -1,4 +1,4 @@
-package com.hoverdroids.dimensions2;
+package com.hoverdroids.dimens;
 
 import org.junit.Test;
 
